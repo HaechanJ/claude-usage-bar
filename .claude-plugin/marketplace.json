@@ -1,0 +1,13 @@
+{
+  "name": "claude-usage-bar",
+  "description": "Claude Code usage bars above the prompt",
+  "owner": {
+    "name": "HaechanJ"
+  },
+  "plugins": [
+    {
+      "name": "usage-bar",
+      "source": "./"
+    }
+  ]
+}

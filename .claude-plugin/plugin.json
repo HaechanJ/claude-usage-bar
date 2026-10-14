@@ -1,0 +1,7 @@
+{
+  "name": "usage-bar",
+  "version": "0.2.0",
+  "description": "Colored usage bars above the prompt: context fill, 5h/7d rate limits and session cost",
+  "author": { "name": "HaechanJ" },
+  "types": "./types/index.d.ts"
+}
